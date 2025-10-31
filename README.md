@@ -1,2 +1,2 @@
 # app-dev
-My first repository
+Favorite movie: Frozen 1, 2, 3
